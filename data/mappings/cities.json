@@ -1,0 +1,522 @@
+{
+ "Adelphi|MD": {
+  "city": "Adelphi",
+  "state": "MD"
+ },
+ "Alameda|CA": {
+  "city": "Alameda",
+  "state": "CA"
+ },
+ "Alexandria|VA": {
+  "city": "Alexandria",
+  "state": "VA"
+ },
+ "Arlington|VA": {
+  "city": "Arlington",
+  "state": "VA"
+ },
+ "Atlanta|GA": {
+  "city": "Atlanta",
+  "state": "GA"
+ },
+ "Austin|TX": {
+  "city": "Austin",
+  "state": "TX"
+ },
+ "Avondale Estates|GA": {
+  "city": "Avondale Estates",
+  "state": "GA"
+ },
+ "Bala Cynwyd|PA": {
+  "city": "Bala Cynwyd",
+  "state": "PA"
+ },
+ "Bayonne|NJ": {
+  "city": "Bayonne",
+  "state": "NJ"
+ },
+ "Bee Cave|TX": {
+  "city": "Bee Cave",
+  "state": "TX"
+ },
+ "Bellevue|WA": {
+  "city": "Bellevue",
+  "state": "WA"
+ },
+ "Belmont|MA": {
+  "city": "Belmont",
+  "state": "MA"
+ },
+ "Berkeley|IL": {
+  "city": "Berkeley",
+  "state": "IL"
+ },
+ "Bethesda|MD": {
+  "city": "Bethesda",
+  "state": "MD"
+ },
+ "Beverly Hills|CA": {
+  "city": "Beverly Hills",
+  "state": "CA"
+ },
+ "Bogota|NJ": {
+  "city": "Bogota",
+  "state": "NJ"
+ },
+ "Boston|MA": {
+  "city": "Boston",
+  "state": "MA"
+ },
+ "Brisbane|CA": {
+  "city": "Brisbane",
+  "state": "CA"
+ },
+ "Bronx|NY": {
+  "city": "Bronx",
+  "state": "NY"
+ },
+ "Brookhaven|GA": {
+  "city": "Brookhaven",
+  "state": "GA"
+ },
+ "Brooklyn|NY": {
+  "city": "Brooklyn",
+  "state": "NY"
+ },
+ "Burbank|CA": {
+  "city": "Burbank",
+  "state": "CA"
+ },
+ "Burien|WA": {
+  "city": "Burien",
+  "state": "WA"
+ },
+ "Burlington|MA": {
+  "city": "Burlington",
+  "state": "MA"
+ },
+ "Cambridge|MA": {
+  "city": "Cambridge",
+  "state": "MA"
+ },
+ "Camden|NJ": {
+  "city": "Camden",
+  "state": "NJ"
+ },
+ "Capitol Heights|MD": {
+  "city": "Capitol Heights",
+  "state": "MD"
+ },
+ "Chamblee|GA": {
+  "city": "Chamblee",
+  "state": "GA"
+ },
+ "Chester|PA": {
+  "city": "Chester",
+  "state": "PA"
+ },
+ "Chicago|IL": {
+  "city": "Chicago",
+  "state": "IL"
+ },
+ "Cicero|IL": {
+  "city": "Cicero",
+  "state": "IL"
+ },
+ "College Park|GA": {
+  "city": "College Park",
+  "state": "GA"
+ },
+ "College Park|MD": {
+  "city": "College Park",
+  "state": "MD"
+ },
+ "Compton|CA": {
+  "city": "Compton",
+  "state": "CA"
+ },
+ "Conley|GA": {
+  "city": "Conley",
+  "state": "GA"
+ },
+ "Conshohocken|PA": {
+  "city": "Conshohocken",
+  "state": "PA"
+ },
+ "Culver City|CA": {
+  "city": "Culver City",
+  "state": "CA"
+ },
+ "Daly City|CA": {
+  "city": "Daly City",
+  "state": "CA"
+ },
+ "Decatur|GA": {
+  "city": "Decatur",
+  "state": "GA"
+ },
+ "Dedham|MA": {
+  "city": "Dedham",
+  "state": "MA"
+ },
+ "Doraville|GA": {
+  "city": "Doraville",
+  "state": "GA"
+ },
+ "Downey|CA": {
+  "city": "Downey",
+  "state": "CA"
+ },
+ "East Los Angeles|CA": {
+  "city": "East Los Angeles",
+  "state": "CA"
+ },
+ "East Point|GA": {
+  "city": "East Point",
+  "state": "GA"
+ },
+ "El Segundo|CA": {
+  "city": "El Segundo",
+  "state": "CA"
+ },
+ "Emeryville|CA": {
+  "city": "Emeryville",
+  "state": "CA"
+ },
+ "Evesham|NJ": {
+  "city": "Evesham",
+  "state": "NJ"
+ },
+ "Fairfax|VA": {
+  "city": "Fairfax",
+  "state": "VA"
+ },
+ "Falls Church|VA": {
+  "city": "Falls Church",
+  "state": "VA"
+ },
+ "Gardena|CA": {
+  "city": "Gardena",
+  "state": "CA"
+ },
+ "Glen Echo|MD": {
+  "city": "Glen Echo",
+  "state": "MD"
+ },
+ "Glendale|CA": {
+  "city": "Glendale",
+  "state": "CA"
+ },
+ "Glenolden|PA": {
+  "city": "Glenolden",
+  "state": "PA"
+ },
+ "Greenbelt|MD": {
+  "city": "Greenbelt",
+  "state": "MD"
+ },
+ "Harwood Heights|IL": {
+  "city": "Harwood Heights",
+  "state": "IL"
+ },
+ "Hillcrest Heights|MD": {
+  "city": "Hillcrest Heights",
+  "state": "MD"
+ },
+ "Hillside|IL": {
+  "city": "Hillside",
+  "state": "IL"
+ },
+ "Hyattsville|MD": {
+  "city": "Hyattsville",
+  "state": "MD"
+ },
+ "Jersey City|NJ": {
+  "city": "Jersey City",
+  "state": "NJ"
+ },
+ "Justice|IL": {
+  "city": "Justice",
+  "state": "IL"
+ },
+ "King of Prussia|PA": {
+  "city": "King of Prussia",
+  "state": "PA"
+ },
+ "Kirkland|WA": {
+  "city": "Kirkland",
+  "state": "WA"
+ },
+ "La Grange|IL": {
+  "city": "La Grange",
+  "state": "IL"
+ },
+ "Lake City|GA": {
+  "city": "Lake City",
+  "state": "GA"
+ },
+ "Largo|MD": {
+  "city": "Largo",
+  "state": "MD"
+ },
+ "Lincolnia|VA": {
+  "city": "Lincolnia",
+  "state": "VA"
+ },
+ "Logan Township|NJ": {
+  "city": "Logan Township",
+  "state": "NJ"
+ },
+ "Los Angeles|CA": {
+  "city": "Los Angeles",
+  "state": "CA"
+ },
+ "Malden|MA": {
+  "city": "Malden",
+  "state": "MA"
+ },
+ "Maywood|CA": {
+  "city": "Maywood",
+  "state": "CA"
+ },
+ "Maywood|IL": {
+  "city": "Maywood",
+  "state": "IL"
+ },
+ "McLean|VA": {
+  "city": "McLean",
+  "state": "VA"
+ },
+ "Melrose Park|IL": {
+  "city": "Melrose Park",
+  "state": "IL"
+ },
+ "Montebello|CA": {
+  "city": "Montebello",
+  "state": "CA"
+ },
+ "Morton|PA": {
+  "city": "Morton",
+  "state": "PA"
+ },
+ "Mt Laurel Township|NJ": {
+  "city": "Mt Laurel Township",
+  "state": "NJ"
+ },
+ "Narberth|PA": {
+  "city": "Narberth",
+  "state": "PA"
+ },
+ "National Harbor|MD": {
+  "city": "National Harbor",
+  "state": "MD"
+ },
+ "New York|": {
+  "city": "New York",
+  "state": "NY"
+ },
+ "New York|NY": {
+  "city": "New York",
+  "state": "NY"
+ },
+ "Newark|NJ": {
+  "city": "Newark",
+  "state": "NJ"
+ },
+ "Newton|MA": {
+  "city": "Newton",
+  "state": "MA"
+ },
+ "Newtown Square|PA": {
+  "city": "Newtown Square",
+  "state": "PA"
+ },
+ "Niles|IL": {
+  "city": "Niles",
+  "state": "IL"
+ },
+ "Norridge|IL": {
+  "city": "Norridge",
+  "state": "IL"
+ },
+ "Norwood|MA": {
+  "city": "Norwood",
+  "state": "MA"
+ },
+ "Oakland|CA": {
+  "city": "Oakland",
+  "state": "CA"
+ },
+ "Penn Wynne|PA": {
+  "city": "Penn Wynne",
+  "state": "PA"
+ },
+ "Pennsauken|NJ": {
+  "city": "Pennsauken",
+  "state": "NJ"
+ },
+ "Philadelphia|PA": {
+  "city": "Philadelphia",
+  "state": "PA"
+ },
+ "Plymouth Meeting|PA": {
+  "city": "Plymouth Meeting",
+  "state": "PA"
+ },
+ "Quincy|MA": {
+  "city": "Quincy",
+  "state": "MA"
+ },
+ "Randolph|MA": {
+  "city": "Randolph",
+  "state": "MA"
+ },
+ "Redmond|WA": {
+  "city": "Redmond",
+  "state": "WA"
+ },
+ "Remote / unspecified|": {
+  "city": "Remote / unspecified",
+  "state": ""
+ },
+ "Rollingwood|TX": {
+  "city": "Rollingwood",
+  "state": "TX"
+ },
+ "Rosemead|CA": {
+  "city": "Rosemead",
+  "state": "CA"
+ },
+ "Rosemont|IL": {
+  "city": "Rosemont",
+  "state": "IL"
+ },
+ "San Bruno|CA": {
+  "city": "San Bruno",
+  "state": "CA"
+ },
+ "San Francisco|CA": {
+  "city": "San Francisco",
+  "state": "CA"
+ },
+ "Sandy Springs|GA": {
+  "city": "Sandy Springs",
+  "state": "GA"
+ },
+ "Santa Monica|CA": {
+  "city": "Santa Monica",
+  "state": "CA"
+ },
+ "Sausalito|CA": {
+  "city": "Sausalito",
+  "state": "CA"
+ },
+ "Schiller Park|IL": {
+  "city": "Schiller Park",
+  "state": "IL"
+ },
+ "Scottdale|GA": {
+  "city": "Scottdale",
+  "state": "GA"
+ },
+ "Seattle|WA": {
+  "city": "Seattle",
+  "state": "WA"
+ },
+ "Sharon Hill|PA": {
+  "city": "Sharon Hill",
+  "state": "PA"
+ },
+ "Silver Spring|MD": {
+  "city": "Silver Spring",
+  "state": "MD"
+ },
+ "Skokie|IL": {
+  "city": "Skokie",
+  "state": "IL"
+ },
+ "Smyrna|GA": {
+  "city": "Smyrna",
+  "state": "GA"
+ },
+ "Somerville|MA": {
+  "city": "Somerville",
+  "state": "MA"
+ },
+ "South Gate|CA": {
+  "city": "South Gate",
+  "state": "CA"
+ },
+ "South San Francisco|CA": {
+  "city": "South San Francisco",
+  "state": "CA"
+ },
+ "Springfield|VA": {
+  "city": "Springfield",
+  "state": "VA"
+ },
+ "Stone Mountain|GA": {
+  "city": "Stone Mountain",
+  "state": "GA"
+ },
+ "Swarthmore|PA": {
+  "city": "Swarthmore",
+  "state": "PA"
+ },
+ "Takoma Park|MD": {
+  "city": "Takoma Park",
+  "state": "MD"
+ },
+ "Tucker|GA": {
+  "city": "Tucker",
+  "state": "GA"
+ },
+ "Tukwila|WA": {
+  "city": "Tukwila",
+  "state": "WA"
+ },
+ "Vienna|VA": {
+  "city": "Vienna",
+  "state": "VA"
+ },
+ "Villanova|PA": {
+  "city": "Villanova",
+  "state": "PA"
+ },
+ "Vinings|GA": {
+  "city": "Vinings",
+  "state": "GA"
+ },
+ "Wakefield|MA": {
+  "city": "Wakefield",
+  "state": "MA"
+ },
+ "Waltham|MA": {
+  "city": "Waltham",
+  "state": "MA"
+ },
+ "Washington|DC": {
+  "city": "Washington",
+  "state": "DC"
+ },
+ "West Lake Hills|TX": {
+  "city": "West Lake Hills",
+  "state": "TX"
+ },
+ "Westmont|CA": {
+  "city": "Westmont",
+  "state": "CA"
+ },
+ "Weymouth|MA": {
+  "city": "Weymouth",
+  "state": "MA"
+ },
+ "Woburn|MA": {
+  "city": "Woburn",
+  "state": "MA"
+ },
+ "Woodinville|WA": {
+  "city": "Woodinville",
+  "state": "WA"
+ }
+}

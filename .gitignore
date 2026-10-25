@@ -2,3 +2,7 @@ venv/
 __pycache__/
 .env
 *.pyc
+data/clean/validation_sample.csv
+data/raw_postings.json
+data/mappings/*.previous.json
+data/pull_progress.json
